@@ -1,0 +1,15 @@
+HAVE
+
+static 3d cube
+constructed with quad primitives
+
+======================================================================
+
+OBJECTIVE
+
+constructed with triangle primitives
+observing with a controlled camera via keyboard
+observing with a controlled camera via mouse
+light source
+one plane reflecting light
+cube placed on grid plane
