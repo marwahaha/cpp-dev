@@ -1,0 +1,3 @@
+[submodule "heat_conduction/lib/glfw"]
+	path = heat_conduction/lib/glfw
+	url = https://github.com/glfw/glfw.git
