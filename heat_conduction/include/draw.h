@@ -5,5 +5,5 @@
 #include "error.h"
 #include "glad/glad.h"
 
-int createRod(int hor_granularity, int ver_granularity, GLuint &vao);
+int createRod(GLfloat hor_step, GLfloat ver_step, GLuint &vao);
 

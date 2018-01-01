@@ -4,7 +4,8 @@ project(heat_conduction)
 set(SRC_DIR "${CMAKE_CURRENT_SOURCE_DIR}/src")
 set(SRC_FILES 
 			${SRC_DIR}/main.cpp
-			${SRC_DIR}/draw.cpp)
+			${SRC_DIR}/draw.cpp
+			${SRC_DIR}/shader.cpp)
 set(INCLUDE_DIR "${CMAKE_CURRENT_SOURCE_DIR}/include")
 set(LIB_DIR "${CMAKE_CURRENT_SOURCE_DIR}/lib")
 set(GLFW_DIR "${LIB_DIR}/glfw")
